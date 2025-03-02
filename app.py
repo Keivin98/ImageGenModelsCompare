@@ -96,18 +96,14 @@ if generate_button:
 
 st.subheader("Previously Generated Images")
 
-# Load all previously generated images
 previous_images = [f for f in os.listdir(OUTPUT_FOLDER) if f.endswith(".png")]
 
-# Categorize images by model
 sd_images = [f for f in previous_images if "_sd_" in f]
 df_images = [f for f in previous_images if "_df_" in f]
 flux_images = [f for f in previous_images if "_flux_" in f]
 
-# Extract unique prompts from metadata
 unique_prompts = set(metadata.values())
 
-# Function to find images related to a prompt
 def find_images_for_prompt(prompt):
     prompt_hash = None
     for key, value in metadata.items():
@@ -124,12 +120,10 @@ def find_images_for_prompt(prompt):
     
     return sd_img, df_img, flux_img
 
-# Display table with model outputs
 if unique_prompts:
     st.write("### Comparison Table")
 
-    # Create table headers
-    cols = st.columns([2, 3, 3, 3])  # Adjust column sizes
+    cols = st.columns([2, 3, 3, 3])
     model_names = ["Flux Schnell", "Stable Diffusion", "Deep Floyd"]
 
     with cols[0]:
