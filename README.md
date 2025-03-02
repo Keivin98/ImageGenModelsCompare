@@ -1,7 +1,3 @@
-Here's a **short and clear README** for your project:  
-
----
-
 ### **Image Generation Interface**  
 
 This project provides an interface for running **three image generation models**:  
@@ -38,5 +34,3 @@ requirements.txt
 ```
 
 ---
-
-Let me know if you want any modifications! 🚀
