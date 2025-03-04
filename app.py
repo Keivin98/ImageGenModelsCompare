@@ -5,7 +5,7 @@ import datetime
 import streamlit as st
 import torch
 from PIL import Image
-from models import stable_diffusion, deep_floyd, flux_schnell, stable_cascade
+from models import stable_diffusion, deep_floyd, flux_schnell, stable_cascade, fanar
 
 OUTPUT_FOLDER = "output"
 METADATA_FILE = os.path.join(OUTPUT_FOLDER, "metadata.json")
@@ -29,6 +29,7 @@ sd_model = stable_diffusion.load_model(device1)
 df_models = deep_floyd.load_model(device1)
 flux_model = flux_schnell.load_model(device2)
 cascade_model = stable_cascade.load_model(device2)
+fanar_model = fanar.load_model(device2)
 
 st.title("Stable Diffusion, Deep Floyd, and Flux Image Generator")
 
@@ -51,11 +52,11 @@ def save_images(images, prefix):
 
 if generate_button:
     with st.status("Generating images... Please wait", expanded=True) as status:
-        try:
+        # try:
             timestamp = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
             prompt_hash = hash_prompt(prompt)
             
-            cols = st.columns(4)
+            cols = st.columns(5)
             
             st.write("Generating with Stable Cascade...")
             cascade_images = stable_cascade.generate_images(cascade_model, prompt, num_inference_steps)
@@ -92,6 +93,17 @@ if generate_button:
                 st.write("### Deep Floyd")
                 for filename in df_filenames:
                     st.image(Image.open(filename), caption="Deep Floyd", use_container_width=True)
+            
+            st.write("Generating with Fanar...")
+            fanar_images = fanar.generate_images(fanar_model, prompt, num_inference_steps)
+            fanar_filenames = save_images(fanar_images, "fanar")
+
+            with cols[4]:
+                st.write("### Fanar")
+                for filename in fanar_filenames:
+                    st.image(Image.open(filename), caption="Fanar", use_container_width=True)
+            
+            
 
             metadata[prompt_hash] = prompt
             with open(METADATA_FILE, "w") as f:
@@ -99,21 +111,22 @@ if generate_button:
 
             status.update(label=" Image generation complete!", state="complete")
 
-        except Exception as e:
-            status.update(label="Error occurred during generation!", state="error")
-            st.error(f"An error occurred: {e}")
+        # except Exception as e:
+        #     status.update(label="Error occurred during generation!", state="error")
+        #     st.error(f"An error occurred: {e}")
 
 
 st.subheader("Previously Generated Images")
 
 previous_images = [f for f in os.listdir(OUTPUT_FOLDER) if f.endswith(".png")]
 
-sd_images = [f for f in previous_images if "_sd_" in f]
-df_images = [f for f in previous_images if "_df_" in f]
-flux_images = [f for f in previous_images if "_flux_" in f]
-cascade_images = [f for f in previous_images if "_cascade_" in f]
+sd_images = sorted([f for f in previous_images if "_sd_" in f])
+df_images = sorted([f for f in previous_images if "_df_" in f])
+flux_images = sorted([f for f in previous_images if "_flux_" in f])
+cascade_images = sorted([f for f in previous_images if "_cascade_" in f])
+fanar_images = sorted([f for f in previous_images if "_fanar_" in f])
 
-unique_prompts = set(metadata.values())
+unique_prompts = sorted(list(set(metadata.values())))
 
 def find_images_for_prompt(prompt):
     prompt_hash = None
@@ -123,20 +136,21 @@ def find_images_for_prompt(prompt):
             break
     
     if not prompt_hash:
-        return None, None, None
+        return None, None, None, None, None
 
     sd_img = next((f for f in sd_images if f.startswith(prompt_hash)), None)
     df_img = next((f for f in df_images if f.startswith(prompt_hash)), None)
     flux_img = next((f for f in flux_images if f.startswith(prompt_hash)), None)
     cascade_img = next((f for f in cascade_images if f.startswith(prompt_hash)), None)
+    fanar_img = next((f for f in fanar_images if f.startswith(prompt_hash)), None)
     
-    return sd_img, df_img, flux_img, cascade_img
+    return sd_img, df_img, flux_img, cascade_img, fanar_img
 
 if unique_prompts:
     st.write("### Comparison Table")
 
-    cols = st.columns([2, 3, 3, 3, 3])
-    model_names = ["Stable Cascade", "Flux Schnell", "Stable Diffusion", "Deep Floyd"]
+    cols = st.columns([2, 3, 3, 3, 3, 3])
+    model_names = ["Fanar", "Stable Cascade", "Flux Schnell", "Stable Diffusion", "Deep Floyd"]
 
     with cols[0]:
         st.write("**Prompt**")
@@ -148,16 +162,17 @@ if unique_prompts:
         st.write(f"**{model_names[2]}**")
     with cols[4]:
         st.write(f"**{model_names[3]}**")
+    with cols[5]:
+        st.write(f"**{model_names[4]}**")
 
-    # Populate rows with images
     for prompt in unique_prompts:
-        sd_img, df_img, flux_img, cascade_img = find_images_for_prompt(prompt)
+        sd_img, df_img, flux_img, cascade_img, fanar_img = find_images_for_prompt(prompt)
 
-        cols = st.columns([2, 3, 3, 3, 3])
+        cols = st.columns([2, 3, 3, 3, 3, 3])
         with cols[0]:
             st.write(prompt)
         
-        for i, (img_path, col) in enumerate(zip([cascade_img, flux_img, sd_img, df_img], cols[1:])):
+        for i, (img_path, col) in enumerate(zip([fanar_img, cascade_img, flux_img, sd_img, df_img], cols[1:])):
             if img_path:
                 img_full_path = os.path.join(OUTPUT_FOLDER, img_path)
                 img = Image.open(img_full_path)

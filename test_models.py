@@ -4,7 +4,7 @@ import hashlib
 import datetime
 import torch
 from PIL import Image
-from models import stable_diffusion, deep_floyd, flux_schnell, stable_cascade
+from models import stable_diffusion, deep_floyd, flux_schnell, stable_cascade, fanar
 import sys
 
 OUTPUT_FOLDER = "output"
@@ -27,7 +27,8 @@ models = {
     "sd": stable_diffusion, 
     "df": deep_floyd, 
     "flux": flux_schnell,
-    "cascade": stable_cascade
+    "cascade": stable_cascade,
+    "fanar": fanar
 }
 
 def save_images(images, prefix):
@@ -59,7 +60,7 @@ for i, (model_name, model) in enumerate(models.items()):
 
             if model_name in ["df"]:
                 images = model.generate_images(model_loaded, prompt)
-            elif model_name in ['cascade']:
+            elif model_name in ['cascade', 'fanar']:
                 images = model.generate_images(model_loaded, prompt, num_inference_steps)
             else:
                 images = model.generate_images(model_loaded, prompt, num_inference_steps, guidance_scale, max_sequence_length, number_of_images)
