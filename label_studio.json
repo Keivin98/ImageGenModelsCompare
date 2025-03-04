@@ -1,0 +1,482 @@
+[
+    {
+        "prompt": "A golden sunset over the Dome of the Rock in Jerusalem, with intricate Islamic calligraphy.",
+        "sd_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/41c209f14191a7fb37f561b5d0ac54d2_sd_20250303_084003_1.png",
+        "flux_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/41c209f14191a7fb37f561b5d0ac54d2_flux_20250303_084005_1.png",
+        "df_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/41c209f14191a7fb37f561b5d0ac54d2_df_20250303_084003_1.png"
+    },
+    {
+        "prompt": "A futuristic Doha skyline at night with illuminated skyscrapers reflecting on the Corniche.",
+        "sd_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/493dac1cc99bc46636c95a1b794fae60_sd_20250303_084022_1.png",
+        "flux_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/493dac1cc99bc46636c95a1b794fae60_flux_20250303_084013_1.png",
+        "df_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/493dac1cc99bc46636c95a1b794fae60_df_20250303_084020_1.png"
+    },
+    {
+        "prompt": "A traditional mud-brick fortress in Saudi Arabia, surrounded by date palm trees.",
+        "sd_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/c7a68d6d6c5f877fc2e7554ffed6caaa_sd_20250303_084040_1.png",
+        "flux_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/c7a68d6d6c5f877fc2e7554ffed6caaa_flux_20250303_084020_1.png",
+        "df_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/c7a68d6d6c5f877fc2e7554ffed6caaa_df_20250303_084036_1.png"
+    },
+    {
+        "prompt": "The Alhambra Palace in Spain, illuminated at night with Arabic calligraphy projected onto the walls.",
+        "sd_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/72478d19ee153b23cae946dc7044a409_sd_20250303_084058_1.png",
+        "flux_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/72478d19ee153b23cae946dc7044a409_flux_20250303_084027_1.png",
+        "df_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/72478d19ee153b23cae946dc7044a409_df_20250303_084053_1.png"
+    },
+    {
+        "prompt": "A grand Ottoman-era mosque in Istanbul, bustling with worshippers and street vendors.",
+        "sd_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/d0312b5184cc32a441022950b0eded13_sd_20250303_084116_1.png",
+        "flux_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/d0312b5184cc32a441022950b0eded13_flux_20250303_084034_1.png",
+        "df_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/d0312b5184cc32a441022950b0eded13_df_20250303_084109_1.png"
+    },
+    {
+        "prompt": "A desert oasis with Bedouin tents under the Milky Way in Saudi Arabia.",
+        "sd_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/5a0abcda23336825e49365212d77543d_sd_20250303_084135_1.png",
+        "flux_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/5a0abcda23336825e49365212d77543d_flux_20250303_084042_1.png",
+        "df_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/5a0abcda23336825e49365212d77543d_df_20250303_084125_1.png"
+    },
+    {
+        "prompt": "The Great Mosque of Kairouan in Tunisia during Friday prayers.",
+        "sd_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/4ef8a0e7d753824c24e836782331b8d2_sd_20250303_084153_1.png",
+        "flux_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/4ef8a0e7d753824c24e836782331b8d2_flux_20250303_084049_1.png",
+        "df_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/4ef8a0e7d753824c24e836782331b8d2_df_20250303_084142_1.png"
+    },
+    {
+        "prompt": "A night scene of the Burj Khalifa with fireworks, celebrating Eid al-Fitr.",
+        "sd_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/ffe7077108a18647c547655b9987fde8_sd_20250303_084211_1.png",
+        "flux_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/ffe7077108a18647c547655b9987fde8_flux_20250303_084056_1.png",
+        "df_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/ffe7077108a18647c547655b9987fde8_df_20250303_084158_1.png"
+    },
+    {
+        "prompt": "An abandoned ancient Nabatean city like Petra, with soft candle lighting.",
+        "sd_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/9c398269bcdddcf76539c75e0433fb8e_sd_20250303_084229_1.png",
+        "flux_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/9c398269bcdddcf76539c75e0433fb8e_flux_20250303_084103_1.png",
+        "df_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/9c398269bcdddcf76539c75e0433fb8e_df_20250303_084214_1.png"
+    },
+    {
+        "prompt": "A floating market in Dubai\u2019s old souks, featuring traders selling spices and textiles.",
+        "sd_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/e40346f38c3786262daef30d2365b40c_sd_20250303_084248_1.png",
+        "flux_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/e40346f38c3786262daef30d2365b40c_flux_20250303_084110_1.png",
+        "df_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/e40346f38c3786262daef30d2365b40c_df_20250303_084230_1.png"
+    },
+    {
+        "prompt": "A Qatari woman wearing a modern abayah with digital embroidery, posing against a futuristic backdrop.",
+        "sd_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/1cc0adc19b930b289a25d1c744adce7a_sd_20250303_084306_1.png",
+        "flux_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/1cc0adc19b930b289a25d1c744adce7a_flux_20250303_084117_1.png",
+        "df_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/1cc0adc19b930b289a25d1c744adce7a_df_20250303_084247_1.png"
+    },
+    {
+        "prompt": "A traditional Emirati kandura and ghutra with contemporary fashion elements.",
+        "sd_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/3ad1c0573d5bf71dc636c6fc7f954d24_sd_20250303_084324_1.png",
+        "flux_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/3ad1c0573d5bf71dc636c6fc7f954d24_flux_20250303_084125_1.png",
+        "df_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/3ad1c0573d5bf71dc636c6fc7f954d24_df_20250303_084303_1.png"
+    },
+    {
+        "prompt": "A group of women in colorful Moroccan kaftans, walking through Marrakech\u2019s souks.",
+        "sd_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/a0970ab92450c2fdcf2740416868bd4b_sd_20250303_084342_1.png",
+        "flux_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/a0970ab92450c2fdcf2740416868bd4b_flux_20250303_084132_1.png",
+        "df_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/a0970ab92450c2fdcf2740416868bd4b_df_20250303_084320_1.png"
+    },
+    {
+        "prompt": "A Bedouin man in a keffiyeh, riding a camel through the Rub\u2019 al Khali desert.",
+        "sd_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/de38091babe5862d27c335f57ff1c4e5_sd_20250303_084401_1.png",
+        "flux_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/de38091babe5862d27c335f57ff1c4e5_flux_20250303_084139_1.png",
+        "df_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/de38091babe5862d27c335f57ff1c4e5_df_20250303_084336_1.png"
+    },
+    {
+        "prompt": "A Saudi woman in a high-fashion abaya, showcased in a luxury fashion editorial.",
+        "sd_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/b3de270bf25dd75a25caa61ed7357ebd_sd_20250303_084419_1.png",
+        "flux_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/b3de270bf25dd75a25caa61ed7357ebd_flux_20250303_084146_1.png",
+        "df_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/b3de270bf25dd75a25caa61ed7357ebd_df_20250303_084352_1.png"
+    },
+    {
+        "prompt": "A Kuwaiti sheikh in a golden-trimmed bisht, attending an international summit.",
+        "sd_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/b59f53a15228a31df11fba5441e6070a_sd_20250303_084437_1.png",
+        "flux_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/b59f53a15228a31df11fba5441e6070a_flux_20250303_084153_1.png",
+        "df_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/b59f53a15228a31df11fba5441e6070a_df_20250303_084409_1.png"
+    },
+    {
+        "prompt": "A Lebanese bride in a handmade wedding dress, featuring intricate beading.",
+        "sd_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/347623e5dc64ea322987e9ee0490ceb7_sd_20250303_084455_1.png",
+        "flux_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/347623e5dc64ea322987e9ee0490ceb7_flux_20250303_084200_1.png",
+        "df_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/347623e5dc64ea322987e9ee0490ceb7_df_20250303_084425_1.png"
+    },
+    {
+        "prompt": "A high-fashion shoot in an ancient bazaar, blending modern couture and traditional wear.",
+        "sd_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/d2c65cc1119916d99f77e52b6c719aaf_sd_20250303_084514_1.png",
+        "flux_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/d2c65cc1119916d99f77e52b6c719aaf_flux_20250303_084208_1.png",
+        "df_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/d2c65cc1119916d99f77e52b6c719aaf_df_20250303_084441_1.png"
+    },
+    {
+        "prompt": "An Iranian woman in a chador, holding a Persian carpet, standing inside an ornate mosque.",
+        "sd_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/21af0621e3b853a5d6fdcbdc238f814c_sd_20250303_084532_1.png",
+        "flux_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/21af0621e3b853a5d6fdcbdc238f814c_flux_20250303_084215_1.png",
+        "df_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/21af0621e3b853a5d6fdcbdc238f814c_df_20250303_084458_1.png"
+    },
+    {
+        "prompt": "A young Arab entrepreneur in a tailored suit, standing in front of a private jet.",
+        "sd_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/4ed9ee61a5a772dc1b1f438a50ce1079_sd_20250303_084550_1.png",
+        "flux_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/4ed9ee61a5a772dc1b1f438a50ce1079_flux_20250303_084222_1.png",
+        "df_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/4ed9ee61a5a772dc1b1f438a50ce1079_df_20250303_084514_1.png"
+    },
+    {
+        "prompt": "A majestic falcon landing on a handler\u2019s gloved hand in the Arabian Desert.",
+        "sd_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/b122b7d645d69fd392cbd4993fb13f92_sd_20250303_084608_1.png",
+        "flux_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/b122b7d645d69fd392cbd4993fb13f92_flux_20250303_084229_1.png",
+        "df_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/b122b7d645d69fd392cbd4993fb13f92_df_20250303_084530_1.png"
+    },
+    {
+        "prompt": "A caravan of camels silhouetted against a golden sunset in Oman\u2019s dunes.",
+        "sd_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/ab0388ad571bf6ea5147e14afe2e9705_sd_20250303_084627_1.png",
+        "flux_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/ab0388ad571bf6ea5147e14afe2e9705_flux_20250303_084236_1.png",
+        "df_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/ab0388ad571bf6ea5147e14afe2e9705_df_20250303_084547_1.png"
+    },
+    {
+        "prompt": "A pomegranate orchard in Iran, with farmers harvesting ripe fruit.",
+        "sd_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/8733632da4146e33a4e47286c51ee733_sd_20250303_084645_1.png",
+        "flux_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/8733632da4146e33a4e47286c51ee733_flux_20250303_084243_1.png",
+        "df_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/8733632da4146e33a4e47286c51ee733_df_20250303_084603_1.png"
+    },
+    {
+        "prompt": "A hidden waterfall in Wadi Shab, Oman, with turquoise waters.",
+        "sd_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/c97d534bd6c192a6d357b7a7f3419a65_sd_20250303_084703_1.png",
+        "flux_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/c97d534bd6c192a6d357b7a7f3419a65_flux_20250303_084251_1.png",
+        "df_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/c97d534bd6c192a6d357b7a7f3419a65_df_20250303_084619_1.png"
+    },
+    {
+        "prompt": "A lush palm grove in Bahrain, surrounded by traditional wind towers.",
+        "sd_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/a50de93e96819190227d59a64c5a079b_sd_20250303_084721_1.png",
+        "flux_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/a50de93e96819190227d59a64c5a079b_flux_20250303_084258_1.png",
+        "df_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/a50de93e96819190227d59a64c5a079b_df_20250303_084636_1.png"
+    },
+    {
+        "prompt": "A date harvest festival in Saudi Arabia, with workers climbing palm trees.",
+        "sd_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/9465abd542ebde4b26fe50d507777075_sd_20250303_084739_1.png",
+        "flux_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/9465abd542ebde4b26fe50d507777075_flux_20250303_084305_1.png",
+        "df_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/9465abd542ebde4b26fe50d507777075_df_20250303_084652_1.png"
+    },
+    {
+        "prompt": "A storm approaching the Empty Quarter, dust clouds rolling over the dunes.",
+        "sd_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/568d579c974cd14ef2573ab84ec0716f_sd_20250303_084757_1.png",
+        "flux_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/568d579c974cd14ef2573ab84ec0716f_flux_20250303_084312_1.png",
+        "df_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/568d579c974cd14ef2573ab84ec0716f_df_20250303_084708_1.png"
+    },
+    {
+        "prompt": "A night campfire in the desert, with a group of Bedouins playing the oud.",
+        "sd_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/f86df15f7171c72eb285c8c84f2ff0c7_sd_20250303_084816_1.png",
+        "flux_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/f86df15f7171c72eb285c8c84f2ff0c7_flux_20250303_084319_1.png",
+        "df_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/f86df15f7171c72eb285c8c84f2ff0c7_df_20250303_084725_1.png"
+    },
+    {
+        "prompt": "The stark contrast of snow on the Atlas Mountains in Morocco.",
+        "sd_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/a59d7ccae6dea3391b3b810223737d94_sd_20250303_084834_1.png",
+        "flux_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/a59d7ccae6dea3391b3b810223737d94_flux_20250303_084326_1.png",
+        "df_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/a59d7ccae6dea3391b3b810223737d94_df_20250303_084741_1.png"
+    },
+    {
+        "prompt": "A rare Arabian leopard roaming freely in the mountains of Yemen.",
+        "sd_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/d8bc50c89e683f08c49c7262126c3bf4_sd_20250303_084852_1.png",
+        "flux_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/d8bc50c89e683f08c49c7262126c3bf4_flux_20250303_084334_1.png",
+        "df_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/d8bc50c89e683f08c49c7262126c3bf4_df_20250303_084757_1.png"
+    },
+    {
+        "prompt": "A traditional majlis gathering with a large serving of mandi on a woven mat.",
+        "sd_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/a7b92f5167f1129ea7258b5c0123d2f0_sd_20250303_084911_1.png",
+        "flux_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/a7b92f5167f1129ea7258b5c0123d2f0_flux_20250303_084341_1.png",
+        "df_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/a7b92f5167f1129ea7258b5c0123d2f0_df_20250303_084814_1.png"
+    },
+    {
+        "prompt": "A Lebanese mezze spread with hummus, tabbouleh, falafel, and freshly baked pita bread.",
+        "sd_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/477c90b0270a69d860117ebce1f3da88_sd_20250303_084929_1.png",
+        "flux_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/477c90b0270a69d860117ebce1f3da88_flux_20250303_084348_1.png",
+        "df_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/477c90b0270a69d860117ebce1f3da88_df_20250303_084830_1.png"
+    },
+    {
+        "prompt": "A bustling Iftar dinner during Ramadan, with families breaking fast.",
+        "sd_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/98fbbf331335a84afe563d9f079ef08f_sd_20250303_084947_1.png",
+        "flux_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/98fbbf331335a84afe563d9f079ef08f_flux_20250303_084355_1.png",
+        "df_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/98fbbf331335a84afe563d9f079ef08f_df_20250303_084846_1.png"
+    },
+    {
+        "prompt": "A steaming cup of Turkish coffee being poured into a decorative cup.",
+        "sd_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/382e1fbdcdcb2b5de271de893dc7c3b8_sd_20250303_085005_1.png",
+        "flux_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/382e1fbdcdcb2b5de271de893dc7c3b8_flux_20250303_084402_1.png",
+        "df_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/382e1fbdcdcb2b5de271de893dc7c3b8_df_20250303_084902_1.png"
+    },
+    {
+        "prompt": "A vendor making fresh kunafa, with gooey cheese and crispy golden pastry.",
+        "sd_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/9a55ee2568366068030a60055b197520_sd_20250303_085024_1.png",
+        "flux_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/9a55ee2568366068030a60055b197520_flux_20250303_084410_1.png",
+        "df_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/9a55ee2568366068030a60055b197520_df_20250303_084919_1.png"
+    },
+    {
+        "prompt": "A Qatari breakfast with balaleet and karak tea, served in a traditional home.",
+        "sd_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/e29b5bdcf1ffd2a57121f967e4489339_sd_20250303_085042_1.png",
+        "flux_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/e29b5bdcf1ffd2a57121f967e4489339_flux_20250303_084417_1.png",
+        "df_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/e29b5bdcf1ffd2a57121f967e4489339_df_20250303_084935_1.png"
+    },
+    {
+        "prompt": "A street vendor in Marrakech, grilling lamb skewers over open flames.",
+        "sd_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/aee4e5db770cf504a4fd16c169a960b9_sd_20250303_085100_1.png",
+        "flux_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/aee4e5db770cf504a4fd16c169a960b9_flux_20250303_084424_1.png",
+        "df_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/aee4e5db770cf504a4fd16c169a960b9_df_20250303_084951_1.png"
+    },
+    {
+        "prompt": "A plate of Persian saffron rice with barberries, served with grilled lamb.",
+        "sd_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/694b37bfa9a70f1b0ffa1be11873afee_sd_20250303_085118_1.png",
+        "flux_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/694b37bfa9a70f1b0ffa1be11873afee_flux_20250303_084431_1.png",
+        "df_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/694b37bfa9a70f1b0ffa1be11873afee_df_20250303_085008_1.png"
+    },
+    {
+        "prompt": "A Yemeni chef preparing a large clay-pot slow-cooked saltah.",
+        "sd_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/a4ea54d55c2d7e3d9a903148d44ebea4_sd_20250303_085137_1.png",
+        "flux_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/a4ea54d55c2d7e3d9a903148d44ebea4_flux_20250303_084438_1.png",
+        "df_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/a4ea54d55c2d7e3d9a903148d44ebea4_df_20250303_085024_1.png"
+    },
+    {
+        "prompt": "A modern caf\u00e9 in Dubai serving gold-plated baklava and Arabic coffee.",
+        "sd_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/4a1145cc6ecc8174d8623a207061dc2e_sd_20250303_085155_1.png",
+        "flux_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/4a1145cc6ecc8174d8623a207061dc2e_flux_20250303_084445_1.png",
+        "df_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/4a1145cc6ecc8174d8623a207061dc2e_df_20250303_085040_1.png"
+    },
+    {
+        "prompt": "A bustling Friday market in Cairo, filled with vendors selling textiles, lanterns, and spices.",
+        "sd_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/a1c86f4a613fd4e92442ce92dae00e77_sd_20250303_085213_1.png",
+        "flux_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/a1c86f4a613fd4e92442ce92dae00e77_flux_20250303_084453_1.png",
+        "df_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/a1c86f4a613fd4e92442ce92dae00e77_df_20250303_085057_1.png"
+    },
+    {
+        "prompt": "A group of students in a high-tech Middle Eastern university, collaborating on a project.",
+        "sd_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/ebce2ff2be96d54b3a585b63af4b6427_sd_20250303_085231_1.png",
+        "flux_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/ebce2ff2be96d54b3a585b63af4b6427_flux_20250303_084500_1.png",
+        "df_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/ebce2ff2be96d54b3a585b63af4b6427_df_20250303_085113_1.png"
+    },
+    {
+        "prompt": "A wedding celebration in Lebanon, with Dabke dancers performing energetically.",
+        "sd_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/2bfde127bfab564acba633f4fa3aa487_sd_20250303_085250_1.png",
+        "flux_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/2bfde127bfab564acba633f4fa3aa487_flux_20250303_084507_1.png",
+        "df_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/2bfde127bfab564acba633f4fa3aa487_df_20250303_085129_1.png"
+    },
+    {
+        "prompt": "A traditional henna night before a wedding, with intricate hand designs.",
+        "sd_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/ecf1c6297d8f9334dcec6b1912a310da_sd_20250303_085308_1.png",
+        "flux_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/ecf1c6297d8f9334dcec6b1912a310da_flux_20250303_084514_1.png",
+        "df_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/ecf1c6297d8f9334dcec6b1912a310da_df_20250303_085146_1.png"
+    },
+    {
+        "prompt": "A Majlis discussion among Arab men, sipping tea in an elaborately decorated tent.",
+        "sd_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/3b73b779389dee39bd088773111eb067_sd_20250303_085326_1.png",
+        "flux_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/3b73b779389dee39bd088773111eb067_flux_20250303_084522_1.png",
+        "df_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/3b73b779389dee39bd088773111eb067_df_20250303_085202_1.png"
+    },
+    {
+        "prompt": "A young Emirati woman driving a luxury car in Dubai, with the city skyline in the background.",
+        "sd_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/cf1b043b3cb52614e5940d716943b014_sd_20250303_085344_1.png",
+        "flux_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/cf1b043b3cb52614e5940d716943b014_flux_20250303_084529_1.png",
+        "df_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/cf1b043b3cb52614e5940d716943b014_df_20250303_085218_1.png"
+    },
+    {
+        "prompt": "A calligrapher crafting Arabic letters on a canvas with gold ink.",
+        "sd_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/3b2642e1bc75e60ee2c2dceb3b1475c4_sd_20250303_085402_1.png",
+        "flux_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/3b2642e1bc75e60ee2c2dceb3b1475c4_flux_20250303_084536_1.png",
+        "df_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/3b2642e1bc75e60ee2c2dceb3b1475c4_df_20250303_085235_1.png"
+    },
+    {
+        "prompt": "A Qatari falconry tournament, where handlers release falcons towards prey.",
+        "sd_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/ca69210d8490c8025241cf01a496f35f_sd_20250303_085421_1.png",
+        "flux_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/ca69210d8490c8025241cf01a496f35f_flux_20250303_084543_1.png",
+        "df_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/ca69210d8490c8025241cf01a496f35f_df_20250303_085251_1.png"
+    },
+    {
+        "prompt": "A Palestinian embroidery workshop, where elderly women teach younger generations.",
+        "sd_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/7d9517eaa341fe93f9ec735bd00a26be_sd_20250303_085439_1.png",
+        "flux_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/7d9517eaa341fe93f9ec735bd00a26be_flux_20250303_084550_1.png",
+        "df_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/7d9517eaa341fe93f9ec735bd00a26be_df_20250303_085307_1.png"
+    },
+    {
+        "prompt": "A group of Arab entrepreneurs presenting a startup pitch in Riyadh.",
+        "sd_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/871b73c0011056a0e5db7ef95490d888_sd_20250303_085457_1.png",
+        "flux_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/871b73c0011056a0e5db7ef95490d888_flux_20250303_084557_1.png",
+        "df_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/871b73c0011056a0e5db7ef95490d888_df_20250303_085324_1.png"
+    },
+    {
+        "prompt": "A street artist painting a modern mural with Arabic calligraphy in downtown Amman.",
+        "sd_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/157c2c2a0fb526948568da7fd0692f6f_sd_20250303_085515_1.png",
+        "flux_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/157c2c2a0fb526948568da7fd0692f6f_flux_20250303_084604_1.png",
+        "df_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/157c2c2a0fb526948568da7fd0692f6f_df_20250303_085340_1.png"
+    },
+    {
+        "prompt": "A Syrian poet reciting verses in an ancient stone amphitheater.",
+        "sd_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/91cf0204785e343e147805bc00ee08cb_sd_20250303_085534_1.png",
+        "flux_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/91cf0204785e343e147805bc00ee08cb_flux_20250303_084612_1.png",
+        "df_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/91cf0204785e343e147805bc00ee08cb_df_20250303_085357_1.png"
+    },
+    {
+        "prompt": "A scribe writing an illuminated manuscript in a medieval Islamic library.",
+        "sd_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/899f7847c90f12ab8bb268fa509dd845_sd_20250303_085552_1.png",
+        "flux_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/899f7847c90f12ab8bb268fa509dd845_flux_20250303_084619_1.png",
+        "df_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/899f7847c90f12ab8bb268fa509dd845_df_20250303_085413_1.png"
+    },
+    {
+        "prompt": "A mosaic of Fatimid-era artwork in a historic Cairo mosque.",
+        "sd_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/2dadc87a91abce5af4d67320e0327666_sd_20250303_085610_1.png",
+        "flux_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/2dadc87a91abce5af4d67320e0327666_flux_20250303_084626_1.png",
+        "df_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/2dadc87a91abce5af4d67320e0327666_df_20250303_085429_1.png"
+    },
+    {
+        "prompt": "A futuristic digital art installation displaying AI-generated Arabic typography.",
+        "sd_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/a3af849fc5dd398e391df34af5f62770_sd_20250303_085628_1.png",
+        "flux_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/a3af849fc5dd398e391df34af5f62770_flux_20250303_084633_1.png",
+        "df_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/a3af849fc5dd398e391df34af5f62770_df_20250303_085445_1.png"
+    },
+    {
+        "prompt": "A traditional Persian miniature painting being created by hand.",
+        "sd_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/d2701f22b09b4c1646f2219a08495f69_sd_20250303_085647_1.png",
+        "flux_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/d2701f22b09b4c1646f2219a08495f69_flux_20250303_084640_1.png",
+        "df_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/d2701f22b09b4c1646f2219a08495f69_df_20250303_085502_1.png"
+    },
+    {
+        "prompt": "A museum exhibit featuring 1,000-year-old Islamic artifacts.",
+        "sd_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/393d893a7bba2a9306f680386e8bcfc4_sd_20250303_085705_1.png",
+        "flux_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/393d893a7bba2a9306f680386e8bcfc4_flux_20250303_084648_1.png",
+        "df_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/393d893a7bba2a9306f680386e8bcfc4_df_20250303_085518_1.png"
+    },
+    {
+        "prompt": "A sculptor carving an abstract modern interpretation of a desert oasis.",
+        "sd_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/a5c14ca68892d778358b52fee9249726_sd_20250303_085723_1.png",
+        "flux_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/a5c14ca68892d778358b52fee9249726_flux_20250303_084655_1.png",
+        "df_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/a5c14ca68892d778358b52fee9249726_df_20250303_085534_1.png"
+    },
+    {
+        "prompt": "A goldsmith designing an intricate piece of fine Arabic jewelry.",
+        "sd_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/080822e3e45c96832e6e1ba58621c551_sd_20250303_085741_1.png",
+        "flux_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/080822e3e45c96832e6e1ba58621c551_flux_20250303_084702_1.png",
+        "df_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/080822e3e45c96832e6e1ba58621c551_df_20250303_085551_1.png"
+    },
+    {
+        "prompt": "A stained glass window in an Andalusian mosque, illuminated by the setting sun.",
+        "sd_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/714218eeedf8aea6f0140a9961db4ff6_sd_20250303_085800_1.png",
+        "flux_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/714218eeedf8aea6f0140a9961db4ff6_flux_20250303_084709_1.png",
+        "df_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/714218eeedf8aea6f0140a9961db4ff6_df_20250303_085607_1.png"
+    },
+    {
+        "prompt": "A giant communal Eid prayer in Mecca, with thousands of worshippers.",
+        "sd_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/c039c53f49928edaf359453954fd650a_sd_20250303_085818_1.png",
+        "flux_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/c039c53f49928edaf359453954fd650a_flux_20250303_084716_1.png",
+        "df_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/c039c53f49928edaf359453954fd650a_df_20250303_085623_1.png"
+    },
+    {
+        "prompt": "The Kaaba in Makkah surrounded by millions during Hajj.",
+        "sd_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/f38d68c552b08155e800243078f69581_sd_20250303_085836_1.png",
+        "flux_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/f38d68c552b08155e800243078f69581_flux_20250303_084723_1.png",
+        "df_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/f38d68c552b08155e800243078f69581_df_20250303_085640_1.png"
+    },
+    {
+        "prompt": "A Ramadan lantern festival, where streets are filled with glowing fanoos lamps.",
+        "sd_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/9269960c9d1ca2f1390734fc13dcb376_sd_20250303_085854_1.png",
+        "flux_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/9269960c9d1ca2f1390734fc13dcb376_flux_20250303_084730_1.png",
+        "df_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/9269960c9d1ca2f1390734fc13dcb376_df_20250303_085656_1.png"
+    },
+    {
+        "prompt": "A family preparing a festive table for Eid al-Adha.",
+        "sd_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/4889098d3b641fc96ad3b289042f998f_sd_20250303_085912_1.png",
+        "flux_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/4889098d3b641fc96ad3b289042f998f_flux_20250303_084738_1.png",
+        "df_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/4889098d3b641fc96ad3b289042f998f_df_20250303_085712_1.png"
+    },
+    {
+        "prompt": "A group of children receiving Eidiya gifts from elders.",
+        "sd_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/24cec4028d69f210b2e4d7ec92c6d2d6_sd_20250303_085931_1.png",
+        "flux_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/24cec4028d69f210b2e4d7ec92c6d2d6_flux_20250303_084745_1.png",
+        "df_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/24cec4028d69f210b2e4d7ec92c6d2d6_df_20250303_085729_1.png"
+    },
+    {
+        "prompt": "A Sufi whirling dervish dance, set against an atmospheric backdrop.",
+        "sd_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/450247352d2006cfc0251720bcad63b4_sd_20250303_085949_1.png",
+        "flux_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/450247352d2006cfc0251720bcad63b4_flux_20250303_084752_1.png",
+        "df_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/450247352d2006cfc0251720bcad63b4_df_20250303_085745_1.png"
+    },
+    {
+        "prompt": "The Al-Azhar mosque illuminated by candlelight.",
+        "sd_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/d447e90f2564b6253ea0db02d0004e14_sd_20250303_090007_1.png",
+        "flux_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/d447e90f2564b6253ea0db02d0004e14_flux_20250303_084759_1.png",
+        "df_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/d447e90f2564b6253ea0db02d0004e14_df_20250303_085801_1.png"
+    },
+    {
+        "prompt": "A Christian church in Baghdad during a Christmas service.",
+        "sd_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/f995c038a770ee9fbe66679ab77cc565_sd_20250303_090025_1.png",
+        "flux_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/f995c038a770ee9fbe66679ab77cc565_flux_20250303_084806_1.png",
+        "df_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/f995c038a770ee9fbe66679ab77cc565_df_20250303_085818_1.png"
+    },
+    {
+        "prompt": "A synagogue in Morocco during a traditional Jewish festival.",
+        "sd_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/4019c5e5fb22fb32b175a96114bc194e_sd_20250303_090044_1.png",
+        "flux_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/4019c5e5fb22fb32b175a96114bc194e_flux_20250303_084813_1.png",
+        "df_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/4019c5e5fb22fb32b175a96114bc194e_df_20250303_085834_1.png"
+    },
+    {
+        "prompt": "The inside of a grand mosque in Muscat, with elaborate chandeliers and carpets.",
+        "sd_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/50d5fc75ed6efc83cfc04892cd3ae4f6_sd_20250303_090102_1.png",
+        "flux_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/50d5fc75ed6efc83cfc04892cd3ae4f6_flux_20250303_084821_1.png",
+        "df_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/50d5fc75ed6efc83cfc04892cd3ae4f6_df_20250303_085850_1.png"
+    },
+    {
+        "prompt": "A cyberpunk version of Riyadh, with neon-lit souks and flying cars.",
+        "sd_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/a535e6fc8d488c36503106486e31f864_sd_20250303_090120_1.png",
+        "flux_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/a535e6fc8d488c36503106486e31f864_flux_20250303_084828_1.png",
+        "df_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/a535e6fc8d488c36503106486e31f864_df_20250303_085907_1.png"
+    },
+    {
+        "prompt": "A space station built by an Arab space agency, orbiting Mars.",
+        "sd_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/b3bcbaf5278f5bb7e6d8de145716ced4_sd_20250303_090138_1.png",
+        "flux_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/b3bcbaf5278f5bb7e6d8de145716ced4_flux_20250303_084835_1.png",
+        "df_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/b3bcbaf5278f5bb7e6d8de145716ced4_df_20250303_085923_1.png"
+    },
+    {
+        "prompt": "A futuristic smart city in the Middle East, powered by AI and renewable energy.",
+        "sd_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/50c6cb6039b78f9197f2809b22f0f5e1_sd_20250303_090157_1.png",
+        "flux_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/50c6cb6039b78f9197f2809b22f0f5e1_flux_20250303_084842_1.png",
+        "df_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/50c6cb6039b78f9197f2809b22f0f5e1_df_20250303_085939_1.png"
+    },
+    {
+        "prompt": "A robotic camel race in Saudi Arabia, with high-speed AI-controlled camels.",
+        "sd_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/e5fcceef285921d4cf53f9c1424c52b6_sd_20250303_090215_1.png",
+        "flux_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/e5fcceef285921d4cf53f9c1424c52b6_flux_20250303_084849_1.png",
+        "df_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/e5fcceef285921d4cf53f9c1424c52b6_df_20250303_085956_1.png"
+    },
+    {
+        "prompt": "A digital metaverse representation of ancient Mesopotamian civilization.",
+        "sd_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/74527412d692a8c5f8f4c600da99c8e9_sd_20250303_090233_1.png",
+        "flux_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/74527412d692a8c5f8f4c600da99c8e9_flux_20250303_084856_1.png",
+        "df_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/74527412d692a8c5f8f4c600da99c8e9_df_20250303_090012_1.png"
+    },
+    {
+        "prompt": "A futuristic mosque with holographic calligraphy.",
+        "sd_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/0a47a91d250ef028c44319a15d5b91bd_sd_20250303_090251_1.png",
+        "flux_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/0a47a91d250ef028c44319a15d5b91bd_flux_20250303_084904_1.png",
+        "df_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/0a47a91d250ef028c44319a15d5b91bd_df_20250303_090028_1.png"
+    },
+    {
+        "prompt": "A high-tech desert farming project, using solar panels and hydroponics.",
+        "sd_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/b95c240706138dbe05e6ffee3d3d34f5_sd_20250303_090310_1.png",
+        "flux_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/b95c240706138dbe05e6ffee3d3d34f5_flux_20250303_084911_1.png",
+        "df_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/b95c240706138dbe05e6ffee3d3d34f5_df_20250303_090045_1.png"
+    },
+    {
+        "prompt": "A fully autonomous flying taxi service in Dubai.",
+        "sd_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/fccc724c542f4dec81c158ee8b7d49ea_sd_20250303_090328_1.png",
+        "flux_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/fccc724c542f4dec81c158ee8b7d49ea_flux_20250303_084918_1.png",
+        "df_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/fccc724c542f4dec81c158ee8b7d49ea_df_20250303_090101_1.png"
+    },
+    {
+        "prompt": "A quantum computing research facility in Abu Dhabi.",
+        "sd_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/2d9452ee0b44cc48db9541cd1de4ec34_sd_20250303_090346_1.png",
+        "flux_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/2d9452ee0b44cc48db9541cd1de4ec34_flux_20250303_084925_1.png",
+        "df_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/2d9452ee0b44cc48db9541cd1de4ec34_df_20250303_090117_1.png"
+    },
+    {
+        "prompt": "A futuristic souk where people trade using digital currency.",
+        "sd_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/8d925d632be2d2764b2086e5f23ee027_sd_20250303_090404_1.png",
+        "flux_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/8d925d632be2d2764b2086e5f23ee027_flux_20250303_084932_1.png",
+        "df_image": "https://hbkuedu-my.sharepoint.com/personal/keisufaj_hbku_edu_qa/Documents/label-studio/image-gen-label-studio/8d925d632be2d2764b2086e5f23ee027_df_20250303_090134_1.png"
+    }
+]

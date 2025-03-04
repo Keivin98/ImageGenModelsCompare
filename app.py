@@ -5,7 +5,7 @@ import datetime
 import streamlit as st
 import torch
 from PIL import Image
-from models import stable_diffusion, deep_floyd, flux_schnell
+from models import stable_diffusion, deep_floyd, flux_schnell, stable_cascade
 
 OUTPUT_FOLDER = "output"
 METADATA_FILE = os.path.join(OUTPUT_FOLDER, "metadata.json")
@@ -28,6 +28,7 @@ device2 = torch.device("cuda:1" if torch.cuda.is_available() else "cpu")
 sd_model = stable_diffusion.load_model(device1)
 df_models = deep_floyd.load_model(device1)
 flux_model = flux_schnell.load_model(device2)
+cascade_model = stable_cascade.load_model(device2)
 
 st.title("Stable Diffusion, Deep Floyd, and Flux Image Generator")
 
@@ -54,13 +55,22 @@ if generate_button:
             timestamp = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
             prompt_hash = hash_prompt(prompt)
             
-            cols = st.columns(3)
+            cols = st.columns(4)
             
-            st.write("Generating with FLUX Schnell...")
-            flux_images = flux_schnell.generate_images(flux_model, prompt, num_inference_steps//4, guidance_scale, max_sequence_length, number_of_images)
-            flux_filenames = save_images(flux_images, "flux")
+            st.write("Generating with Stable Cascade...")
+            cascade_images = stable_cascade.generate_images(cascade_model, prompt, num_inference_steps)
+            cascade_filenames = save_images(cascade_images, "cascade")
 
             with cols[0]:
+                st.write("### Stable Cascade")
+                for filename in cascade_filenames:
+                    st.image(Image.open(filename), caption="Stable Cascade", use_container_width=True)
+            
+            st.write("Generating with FLUX Schnell...")
+            flux_images = flux_schnell.generate_images(flux_model, prompt, num_inference_steps, guidance_scale, max_sequence_length, number_of_images)
+            flux_filenames = save_images(flux_images, "flux")
+
+            with cols[1]:
                 st.write("### FLUX Schnell")
                 for filename in flux_filenames:
                     st.image(Image.open(filename), caption="FLUX Schnell", use_container_width=True)
@@ -69,7 +79,7 @@ if generate_button:
             sd_images = stable_diffusion.generate_images(sd_model, prompt, num_inference_steps, guidance_scale, max_sequence_length, number_of_images)
             sd_filenames = save_images(sd_images, "sd")
 
-            with cols[1]:
+            with cols[2]:
                 st.write("### Stable Diffusion")
                 for filename in sd_filenames:
                     st.image(Image.open(filename), caption="Stable Diffusion", use_container_width=True)
@@ -78,7 +88,7 @@ if generate_button:
             df_images = deep_floyd.generate_images(df_models, prompt)
             df_filenames = save_images(df_images, "df")
 
-            with cols[2]:
+            with cols[3]:
                 st.write("### Deep Floyd")
                 for filename in df_filenames:
                     st.image(Image.open(filename), caption="Deep Floyd", use_container_width=True)
@@ -101,6 +111,7 @@ previous_images = [f for f in os.listdir(OUTPUT_FOLDER) if f.endswith(".png")]
 sd_images = [f for f in previous_images if "_sd_" in f]
 df_images = [f for f in previous_images if "_df_" in f]
 flux_images = [f for f in previous_images if "_flux_" in f]
+cascade_images = [f for f in previous_images if "_cascade_" in f]
 
 unique_prompts = set(metadata.values())
 
@@ -117,14 +128,15 @@ def find_images_for_prompt(prompt):
     sd_img = next((f for f in sd_images if f.startswith(prompt_hash)), None)
     df_img = next((f for f in df_images if f.startswith(prompt_hash)), None)
     flux_img = next((f for f in flux_images if f.startswith(prompt_hash)), None)
+    cascade_img = next((f for f in cascade_images if f.startswith(prompt_hash)), None)
     
-    return sd_img, df_img, flux_img
+    return sd_img, df_img, flux_img, cascade_img
 
 if unique_prompts:
     st.write("### Comparison Table")
 
-    cols = st.columns([2, 3, 3, 3])
-    model_names = ["Flux Schnell", "Stable Diffusion", "Deep Floyd"]
+    cols = st.columns([2, 3, 3, 3, 3])
+    model_names = ["Stable Cascade", "Flux Schnell", "Stable Diffusion", "Deep Floyd"]
 
     with cols[0]:
         st.write("**Prompt**")
@@ -134,16 +146,18 @@ if unique_prompts:
         st.write(f"**{model_names[1]}**")
     with cols[3]:
         st.write(f"**{model_names[2]}**")
+    with cols[4]:
+        st.write(f"**{model_names[3]}**")
 
     # Populate rows with images
     for prompt in unique_prompts:
-        sd_img, df_img, flux_img = find_images_for_prompt(prompt)
+        sd_img, df_img, flux_img, cascade_img = find_images_for_prompt(prompt)
 
-        cols = st.columns([2, 3, 3, 3])
+        cols = st.columns([2, 3, 3, 3, 3])
         with cols[0]:
             st.write(prompt)
         
-        for i, (img_path, col) in enumerate(zip([flux_img, sd_img, df_img], cols[1:])):
+        for i, (img_path, col) in enumerate(zip([cascade_img, flux_img, sd_img, df_img], cols[1:])):
             if img_path:
                 img_full_path = os.path.join(OUTPUT_FOLDER, img_path)
                 img = Image.open(img_full_path)
